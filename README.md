@@ -1,1 +1,1 @@
-# gpt4o-invoice
+# gpt4-invoice
